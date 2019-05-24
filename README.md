@@ -6,6 +6,7 @@
 <p>&#8195;3.Cleaner</p>
 <p>&#8195;4.Password Generator</p>
 <p>&#8195;5.Autoclicker</p>
+<p>&#8195;5.Settings</p>
 <h3>Status</h3>
 <p>&#8195;In developing</p>
 <h3>Platform</h3>
