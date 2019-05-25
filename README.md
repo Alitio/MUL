@@ -11,7 +11,7 @@
 &#8195;<img src="imgs/passgen.jpg">
 <p>&#8195;5.Autoclicker<br>
 &#8195;<img src="imgs/autoclicker.jpg">
-<p>&#8195;6.Settings<br>
+<p>&#8195;6.Autorun<br>
 &#8195;<img src="imgs/autorun.jpg">
 <h3>How to start?</h3>
 <p>&#8195;1.Open MUL.exe as administrator</p>
