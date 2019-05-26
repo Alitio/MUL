@@ -14,5 +14,3 @@
 <p>&#8195;0.0.1</p>
 <h3>Platform</h3>
 <p>&#8195;OS Windows</p>
-<h3>Donate</h3>
-<a href="https://qiwi.com/payment/form/99"><img src="imgs/donate.png"></a>
