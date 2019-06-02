@@ -7,10 +7,11 @@
 <p>&#8195;4.Password Generator
 <p>&#8195;5.Autoclicker
 <p>&#8195;6.Autorun
+<p>&#8195;7.Keyboards codes
 <h3>How to start?</h3>
 <p>&#8195;1.Open MUL.exe as administrator</p>
 <p>&#8195;2.Create file with name dairy.txt</p>
 <h3>Version</h3>
-<p>&#8195;0.0.1</p>
+<p>&#8195;0.2.1</p>
 <h3>Platform</h3>
 <p>&#8195;OS Windows</p>
