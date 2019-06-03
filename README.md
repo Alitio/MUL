@@ -7,7 +7,7 @@
 <p>&#8195;4.Password Generator
 <p>&#8195;5.Autoclicker
 <p>&#8195;6.Autorun
-<p>&#8195;7.Cursor position
+<p>&#8195;7.Get cursor position
 <h3>How to start?</h3>
 <p>&#8195;1.Open MUL.exe as administrator</p>
 <p>&#8195;2.Create file with name dairy.txt</p>
