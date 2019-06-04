@@ -17,6 +17,6 @@
 <p>&#8195;1.Open MUL.exe as administrator</p>
 <p>&#8195;2.Create file with name dairy.txt</p>
 <h3>Version</h3>
-<p>&#8195;0.2.7</p>
+<p>&#8195;0.3.0</p>
 <h3>Platform</h3>
 <p>&#8195;OS Windows</p>
