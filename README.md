@@ -20,3 +20,5 @@
 <p>&#8195;0.3.0</p>
 <h3>Platform</h3>
 <p>&#8195;OS Windows</p>
+<h3>Screenshot</h3>
+<img src="imgs/screenshot.png">
