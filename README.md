@@ -1,5 +1,5 @@
 <img src="imgs/icon.png">
-<p>This application is a combination of several tools assembled into one program. This can reduce the time it takes to perform routine processes, and the program itself is located on the side of the screen, which makes it inconspicuous and compact.More information below.</p>
+<p>This application is a combination of several tools assembled into one program. This can reduce the time it takes to perform routine processes.More information below.</p>
 <h3>Abilities</h3>
 <p>&#8195;1.Mini-Notepad
 <p>&#8195;&#8195;Here you can write what you want  
